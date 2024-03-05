@@ -1,3 +1,3 @@
 # TYC4DETAILS
-
-ROLl_NO    NAME
+Roll_no   Name                                                        
+9         Tania
